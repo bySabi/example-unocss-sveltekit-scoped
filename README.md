@@ -4,7 +4,7 @@
 - Load `uno:safelist global` in root layout "/+layout.svelte' in place of `Preflights.svelte`
 - Removed `uno:preflight` style
 
-* The example is working like the original except for the `prose` styles in the `Prose.svelte` component
+** The example is working like the original except for the `prose` styles in the `Prose.svelte` component
 
 
 # SvelteKit + UnoCSS Vite Plugin (svelte-scoped)
